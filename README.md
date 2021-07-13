@@ -1,4 +1,4 @@
-# Live Weather forecase
+# Live Weather forecast
 
 ### this App is built using Node, Express, react, JQuery, moment.js, vanilla javaScript and OneWeatherApp open source API
 
