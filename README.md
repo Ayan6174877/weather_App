@@ -1,6 +1,6 @@
 # Live Weather forecast
 
-### this App is built using Node, Express, react, JQuery, moment.js, vanilla javaScript and OneWeatherApp open source API
+### This App is built using Node, Express, react, JQuery, moment.js, vanilla javaScript and OneWeatherApp open source API
 
 ![webather](https://user-images.githubusercontent.com/68985427/125515090-8b99df5d-4f35-46b8-9986-8184d639bbae.PNG)
 
